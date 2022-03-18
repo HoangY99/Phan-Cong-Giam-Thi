@@ -1,0 +1,713 @@
+
+Ngo Van Phu, 101170046, giam thi 1, 128
+Tran Dac Sang, 101170054, giam thi 2, 128
+Phan Van Cong, 101170008, giam thi 1, 129
+Nguyen Tuan Diep, 101170093, giam thi 2, 129
+Vo Xuan Dat, 101170092, giam thi 1, 130
+Le Quoc Viet, 101170078, giam thi 2, 130
+Le Van Chung, 101170086, giam thi 1, 131
+Ngo Xuan Thang, 101170062, giam thi 2, 131
+Huynh Van Thinh, 101170067, giam thi 1, 132
+Tran Van Hoa, 101170025, giam thi 2, 132
+Nguyen Van Cuong, 101170089, giam thi 1, 133
+Dang Vinh Chien, 101170004, giam thi 2, 133
+Nguyen Anh Tuan, 101170074, giam thi 1, 134
+Nguyen Phan Thanh Loc, 101170036, giam thi 2, 134
+Do Van Quang, 101170052, giam thi 1, 135
+Nguyen Duc Thanh Cong, 101170088, giam thi 2, 135
+Nguyen Van Minh, 101170038, giam thi 1, 136
+Nguyen Luong Nghia, 101170041, giam thi 2, 136
+Phan Dung Thang, 101170063, giam thi 1, 137
+Nguyen Quoc Te, 101170059, giam thi 2, 137
+Tran Hoang Vu, 101170080, giam thi 1, 138
+Bui The Thien, 101170065, giam thi 2, 138
+Nguyen Quoc Dung, 101170016, giam thi 1, 139
+Nguyen Luong Duc Hong Thai, 101170060, giam thi 2, 139
+Le Hong Phuc, 101170048, giam thi 1, 140
+Le Duc Huy, 101170030, giam thi 2, 140
+Nguyen Van An, 101170001, giam thi 1, 141
+Le Van Anh, 101170002, giam thi 2, 141
+Nguyen Huu Tung Duong, 101170017, giam thi 1, 142
+Vo Huu Duc, 101170095, giam thi 2, 142
+Nguyen Minh Hoang, 101170027, giam thi 1, 143
+Nguyen Cuu Thanh De, 101170012, giam thi 2, 143
+Le Tu Tien, 101170070, giam thi 1, 144
+Tran Ngoc Thanh, 101170064, giam thi 2, 144
+Huynh Van Thu, 101170069, giam thi 1, 145
+Nguyen Van Chung, 101170087, giam thi 2, 145
+Nguyen Tang Phuoc, 101170050, giam thi 1, 146
+Tran Quang Linh, 101170035, giam thi 2, 146
+Tran Hung Duc, 101170014, giam thi 1, 147
+Nguyen Bao Danh, 101170090, giam thi 2, 147
+Tran Cao Dy Bao, 101170083, giam thi 1, 148
+Nguyen Trung Hieu, 101170023, giam thi 2, 148
+Tran Van Huy, 101170031, giam thi 1, 149
+Nguyen Canh Duong, 101170097, giam thi 2, 149
+Hoang Phan Lam, 101170033, giam thi 1, 150
+Nguyen Dinh Chung, 101170006, giam thi 2, 150
+Nguyen Duc Anh Quan, 101170051, giam thi 1, 151
+Nguyen Tien Dat, 101170011, giam thi 2, 151
+Hoang Nhat Tuyen, 101170076, giam thi 1, 152
+Nguyen Phi Dat, 101170091, giam thi 2, 152
+Nguyen Tran Van Quoc, 101170053, giam thi 1, 153
+Le Minh Dung, 101170015, giam thi 2, 153
+Nguyen Manh Hung, 101170028, giam thi 1, 154
+Le Dinh Nga, 101170040, giam thi 2, 154
+Dang Ngoc Giang, 101170018, giam thi 1, 155
+Nguyen Dinh Hoang, 101170026, giam thi 2, 155
+Phan Minh Tho, 101170068, giam thi 1, 156
+Dang Trong Duc, 101170013, giam thi 2, 156
+Nguyen Huynh Nhat, 101170044, giam thi 1, 157
+Do Minh Tan, 101170058, giam thi 2, 157
+Nguyen Van Nguyen, 101170042, giam thi 1, 158
+Vo Dang Hieu, 101170024, giam thi 2, 158
+Nguyen Hai Dat, 101170010, giam thi 1, 159
+Truong Van Hung, 101170029, giam thi 2, 159
+Le Van Bac, 101170082, giam thi 1, 160
+Dang Ha, 101170019, giam thi 2, 160
+Vo Thanh Chau, 101170084, giam thi 1, 161
+Dang Van Hieu, 101170022, giam thi 2, 161
+Tran Danh Dan, 101170009, giam thi 1, 162
+Le Bich Tam, 101170057, giam thi 2, 162
+Tran Hoang Lam, 101170034, giam thi 1, 163
+Tran Viet An, 101170081, giam thi 2, 163
+Nguyen Thanh Hai, 101170020, giam thi 1, 164
+Le Anh Tu, 101170073, giam thi 2, 164
+Tran Dinh Chien, 101170085, giam thi 1, 165
+Lam Quoc Vu, 101170079, giam thi 2, 165
+Phan Van Toi, 101170071, giam thi 1, 166
+Pham Duc Manh, 101170037, giam thi 2, 166
+Phan Van Phuc, 101170049, giam thi 1, 167
+Le Nhat, 101170043, giam thi 2, 167
+Nguyen Thanh Hai, 101170020, giam thi 1, 128
+Nguyen Huu Tung Duong, 101170017, giam thi 2, 128
+Ngo Van Phu, 101170046, giam thi 1, 129
+Nguyen Luong Nghia, 101170041, giam thi 2, 129
+Doan Nguyen Anh Tai, 101170056, giam thi 1, 130
+Le Van Anh, 101170002, giam thi 2, 130
+Le Phu Van, 101170077, giam thi 1, 131
+Dau The Duc, 101170094, giam thi 2, 131
+Vo Dang Hieu, 101170024, giam thi 1, 132
+Nguyen Duc Anh Quan, 101170051, giam thi 2, 132
+Nguyen Duc Thanh Cong, 101170088, giam thi 1, 133
+Nguyen Ke Trong, 101170072, giam thi 2, 133
+Truong Van Hung, 101170029, giam thi 1, 134
+Doan Ngoc Chung, 101170005, giam thi 2, 134
+Vo Xuan Dat, 101170092, giam thi 1, 135
+Nguyen Huynh Nhat, 101170044, giam thi 2, 135
+Nguyen Tuan Diep, 101170093, giam thi 1, 136
+Tran Van Huy, 101170031, giam thi 2, 136
+Le Minh Dung, 101170015, giam thi 1, 137
+Nguyen Cuu Thanh De, 101170012, giam thi 2, 137
+Ngo Xuan Thang, 101170062, giam thi 1, 138
+Tran Viet An, 101170081, giam thi 2, 138
+Nguyen Phi Dat, 101170091, giam thi 1, 139
+Tran Ngoc Thanh, 101170064, giam thi 2, 139
+Le Thi Nhut, 101170045, giam thi 1, 140
+Nguyen Dinh Hoang, 101170026, giam thi 2, 140
+Ha Dinh Thang, 101170061, giam thi 1, 141
+Tran Quang Linh, 101170035, giam thi 2, 141
+Nguyen Cong Thien, 101170066, giam thi 1, 142
+Vo Tan Duy, 101170098, giam thi 2, 142
+Dang Ha, 101170019, giam thi 1, 143
+Le Quoc Viet, 101170078, giam thi 2, 143
+Van Nhat Nam, 101170039, giam thi 1, 144
+Nguyen Luong Duc Hong Thai, 101170060, giam thi 2, 144
+Hoang Nhat Tuyen, 101170076, giam thi 1, 145
+Le Bich Tam, 101170057, giam thi 2, 145
+Tran Dinh Chien, 101170085, giam thi 1, 146
+Le Nhat, 101170043, giam thi 2, 146
+Lam Quoc Vu, 101170079, giam thi 1, 147
+Dang Ngoc Giang, 101170018, giam thi 2, 147
+Dang Van Hieu, 101170022, giam thi 1, 148
+Hoang Phan Lam, 101170033, giam thi 2, 148
+Le Van Bac, 101170082, giam thi 1, 149
+Tran Vinh Hao, 101170021, giam thi 2, 149
+Nguyen Quoc Dung, 101170016, giam thi 1, 150
+Tran Hung Duc, 101170014, giam thi 2, 150
+Nguyen Hai Dat, 101170010, giam thi 1, 151
+Nguyen Quoc Te, 101170059, giam thi 2, 151
+Nguyen Van Nguyen, 101170042, giam thi 1, 152
+Tran Hoang Lam, 101170034, giam thi 2, 152
+Vo Dinh Cuong, 111160014, giam thi 1, 153
+Do Hong Son, 101170055, giam thi 2, 153
+Phan Minh Tho, 101170068, giam thi 1, 154
+Nguyen Van Cuong, 101170089, giam thi 2, 154
+Nguyen Manh Hung, 101170028, giam thi 1, 155
+Phan Van Toi, 101170071, giam thi 2, 155
+Pham Duc Manh, 101170037, giam thi 1, 156
+Tran Van Hoa, 101170025, giam thi 2, 156
+Tran Hoang Vu, 101170080, giam thi 1, 157
+Do Van Quang, 101170052, giam thi 2, 157
+Le Hong Phuc, 101170048, giam thi 1, 158
+Vo Huu Duc, 101170095, giam thi 2, 158
+Vo Thanh Chau, 101170084, giam thi 1, 159
+Nguyen Phan Thanh Loc, 101170036, giam thi 2, 159
+Nguyen Tien Dat, 101170011, giam thi 1, 160
+Do Minh Tan, 101170058, giam thi 2, 160
+Ha Minh Phuc, 101170047, giam thi 1, 161
+Nguyen Tran Van Quoc, 101170053, giam thi 2, 161
+Phan Huu Binh, 101170003, giam thi 1, 162
+Le Dinh Nga, 101170040, giam thi 2, 162
+Huynh Van Thinh, 101170067, giam thi 1, 163
+Nguyen Canh Duong, 101170097, giam thi 2, 163
+Nguyen Van An, 101170001, giam thi 1, 164
+Dang Trong Duc, 101170013, giam thi 2, 164
+Le Van Chung, 101170086, giam thi 1, 165
+Phan Dung Thang, 101170063, giam thi 2, 165
+Nguyen Tang Phuoc, 101170050, giam thi 1, 166
+Tran Danh Dan, 101170009, giam thi 2, 166
+Le Duc Huy, 101170030, giam thi 1, 167
+Nguyen Van Minh, 101170038, giam thi 2, 167
+Nguyen Luong Nghia, 101170041, giam thi 1, 128
+Doan Nguyen Anh Tai, 101170056, giam thi 2, 128
+Nguyen Thanh Hai, 101170020, giam thi 1, 129
+Le Van Anh, 101170002, giam thi 2, 129
+Ngo Van Phu, 101170046, giam thi 1, 130
+Nguyen Huu Tung Duong, 101170017, giam thi 2, 130
+Vo Dang Hieu, 101170024, giam thi 1, 131
+Nguyen Duc Thanh Cong, 101170088, giam thi 2, 131
+Le Phu Van, 101170077, giam thi 1, 132
+Nguyen Ke Trong, 101170072, giam thi 2, 132
+Nguyen Tran Van Quoc, 101170053, giam thi 1, 133
+Phan Van Toi, 101170071, giam thi 2, 133
+Tran Hung Duc, 101170014, giam thi 1, 134
+Nguyen Van Chung, 101170087, giam thi 2, 134
+Tran Dinh Chien, 101170085, giam thi 1, 135
+Nguyen Van Tuan, 101170075, giam thi 2, 135
+Nguyen Canh Duong, 101170097, giam thi 1, 136
+Nguyen Duc Anh Quan, 101170051, giam thi 2, 136
+Van Nhat Nam, 101170039, giam thi 1, 137
+Lam Quoc Vu, 101170079, giam thi 2, 137
+Le Anh Tu, 101170073, giam thi 1, 138
+Nguyen Dinh Hoang, 101170026, giam thi 2, 138
+Nguyen Tang Phuoc, 101170050, giam thi 1, 139
+Phan Van Phuc, 101170049, giam thi 2, 139
+Phan Huu Binh, 101170003, giam thi 1, 140
+Nguyen Quoc Te, 101170059, giam thi 2, 140
+Doan Minh Van Chuong, 101170007, giam thi 1, 141
+Pham Duc Manh, 101170037, giam thi 2, 141
+Nguyen Dinh Anh Dung, 101170096, giam thi 1, 142
+Nguyen Hai Dat, 101170010, giam thi 2, 142
+Nguyen Van An, 101170001, giam thi 1, 143
+Tran Dac Sang, 101170054, giam thi 2, 143
+Tran Quang Linh, 101170035, giam thi 1, 144
+Tran Van Hoa, 101170025, giam thi 2, 144
+Le Quoc Viet, 101170078, giam thi 1, 145
+Tran Cao Dy Bao, 101170083, giam thi 2, 145
+Ngo Xuan Thang, 101170062, giam thi 1, 146
+Nguyen Dinh Chung, 101170006, giam thi 2, 146
+Ha Dinh Thang, 101170061, giam thi 1, 147
+Nguyen Phi Dat, 101170091, giam thi 2, 147
+Tran Ngoc Thanh, 101170064, giam thi 1, 148
+Nguyen Bao Danh, 101170090, giam thi 2, 148
+Huynh Van Thu, 101170069, giam thi 1, 149
+Le Minh Dung, 101170015, giam thi 2, 149
+Le Hong Phuc, 101170048, giam thi 1, 150
+Dang Ha, 101170019, giam thi 2, 150
+Truong Van Hung, 101170029, giam thi 1, 151
+Nguyen Anh Tuan, 101170074, giam thi 2, 151
+Tran Vinh Hao, 101170021, giam thi 1, 152
+Doan Ngoc Chung, 101170005, giam thi 2, 152
+Nguyen Tien Dat, 101170011, giam thi 1, 153
+Le Dinh Nga, 101170040, giam thi 2, 153
+Nguyen Luong Duc Hong Thai, 101170060, giam thi 1, 154
+Vo Thanh Chau, 101170084, giam thi 2, 154
+Tran Viet An, 101170081, giam thi 1, 155
+Nguyen Quoc Dung, 101170016, giam thi 2, 155
+Le Thi Nhut, 101170045, giam thi 1, 156
+Dang Van Hieu, 101170022, giam thi 2, 156
+Nguyen Cuu Thanh De, 101170012, giam thi 1, 157
+Hoang Nhat Tuyen, 101170076, giam thi 2, 157
+Dang Ngoc Giang, 101170018, giam thi 1, 158
+Le Van Bac, 101170082, giam thi 2, 158
+Huynh Van Thinh, 101170067, giam thi 1, 159
+Nguyen Cong Thien, 101170066, giam thi 2, 159
+Nguyen Van Cuong, 101170089, giam thi 1, 160
+Nguyen Minh Hoang, 101170027, giam thi 2, 160
+Tran Danh Dan, 101170009, giam thi 1, 161
+Dau The Duc, 101170094, giam thi 2, 161
+Hoang Phan Lam, 101170033, giam thi 1, 162
+Dang Trong Duc, 101170013, giam thi 2, 162
+Vo Huu Duc, 101170095, giam thi 1, 163
+Vo Tan Duy, 101170098, giam thi 2, 163
+Dang Vinh Chien, 101170004, giam thi 1, 164
+Le Van Chung, 101170086, giam thi 2, 164
+Vo Dinh Cuong, 111160014, giam thi 1, 165
+Ha Minh Phuc, 101170047, giam thi 2, 165
+Phan Dung Thang, 101170063, giam thi 1, 166
+Le Nhat, 101170043, giam thi 2, 166
+Phan Minh Tho, 101170068, giam thi 1, 167
+Nguyen Phan Thanh Loc, 101170036, giam thi 2, 167
+Dang Vinh Chien, 101170004, giam thi 1, 128
+Phan Huu Binh, 101170003, giam thi 2, 128
+Le Van Bac, 101170082, giam thi 1, 129
+Nguyen Quoc Dung, 101170016, giam thi 2, 129
+Ngo Van Phu, 101170046, giam thi 1, 130
+Phan Van Toi, 101170071, giam thi 2, 130
+Nguyen Phi Dat, 101170091, giam thi 1, 131
+Tran Danh Dan, 101170009, giam thi 2, 131
+Tran Cao Dy Bao, 101170083, giam thi 1, 132
+Nguyen Van Minh, 101170038, giam thi 2, 132
+Le Bich Tam, 101170057, giam thi 1, 133
+Le Nhat, 101170043, giam thi 2, 133
+Nguyen Luong Duc Hong Thai, 101170060, giam thi 1, 134
+Vo Dang Hieu, 101170024, giam thi 2, 134
+Doan Minh Van Chuong, 101170007, giam thi 1, 135
+Tran Hoang Lam, 101170034, giam thi 2, 135
+Phan Dung Thang, 101170063, giam thi 1, 136
+Tran Hoang Vu, 101170080, giam thi 2, 136
+Bui The Thien, 101170065, giam thi 1, 137
+Dang Trong Duc, 101170013, giam thi 2, 137
+Nguyen Van Tuan, 101170075, giam thi 1, 138
+Tran Dinh Chien, 101170085, giam thi 2, 138
+Nguyen Anh Tuan, 101170074, giam thi 1, 139
+Tran Dac Sang, 101170054, giam thi 2, 139
+Tran Hung Duc, 101170014, giam thi 1, 140
+Nguyen Hai Dat, 101170010, giam thi 2, 140
+Nguyen Cuu Thanh De, 101170012, giam thi 1, 141
+Nguyen Manh Hung, 101170028, giam thi 2, 141
+Le Van Chung, 101170086, giam thi 1, 142
+Nguyen Huu Tung Duong, 101170017, giam thi 2, 142
+Huynh Van Thu, 101170069, giam thi 1, 143
+Le Phu Van, 101170077, giam thi 2, 143
+Le Tu Tien, 101170070, giam thi 1, 144
+Nguyen Phan Thanh Loc, 101170036, giam thi 2, 144
+Vo Dinh Cuong, 111160014, giam thi 1, 145
+Tran Van Huy, 101170031, giam thi 2, 145
+Nguyen Duc Thanh Cong, 101170088, giam thi 1, 146
+Le Quoc Viet, 101170078, giam thi 2, 146
+Le Van Anh, 101170002, giam thi 1, 147
+Ngo Xuan Thang, 101170062, giam thi 2, 147
+Dang Van Hieu, 101170022, giam thi 1, 148
+Nguyen Van Cuong, 101170089, giam thi 2, 148
+Nguyen Tuan Diep, 101170093, giam thi 1, 149
+Nguyen Minh Hoang, 101170027, giam thi 2, 149
+Nguyen Bao Danh, 101170090, giam thi 1, 150
+Do Van Quang, 101170052, giam thi 2, 150
+Nguyen Thanh Hai, 101170020, giam thi 1, 151
+Phan Van Cong, 101170008, giam thi 2, 151
+Dang Ngoc Giang, 101170018, giam thi 1, 152
+Lam Quoc Vu, 101170079, giam thi 2, 152
+Nguyen Van Nguyen, 101170042, giam thi 1, 153
+Vo Huu Duc, 101170095, giam thi 2, 153
+Nguyen Cong Thien, 101170066, giam thi 1, 154
+Hoang Phan Lam, 101170033, giam thi 2, 154
+Nguyen Trung Hieu, 101170023, giam thi 1, 155
+Dau The Duc, 101170094, giam thi 2, 155
+Le Dinh Nga, 101170040, giam thi 1, 156
+Van Nhat Nam, 101170039, giam thi 2, 156
+Nguyen Huynh Nhat, 101170044, giam thi 1, 157
+Nguyen Tang Phuoc, 101170050, giam thi 2, 157
+Nguyen Canh Duong, 101170097, giam thi 1, 158
+Phan Minh Tho, 101170068, giam thi 2, 158
+Le Duc Huy, 101170030, giam thi 1, 159
+Nguyen Dinh Hoang, 101170026, giam thi 2, 159
+Doan Ngoc Chung, 101170005, giam thi 1, 160
+Le Minh Dung, 101170015, giam thi 2, 160
+Vo Thanh Chau, 101170084, giam thi 1, 161
+Ha Minh Phuc, 101170047, giam thi 2, 161
+Nguyen Luong Nghia, 101170041, giam thi 1, 162
+Nguyen Ke Trong, 101170072, giam thi 2, 162
+Dang Ha, 101170019, giam thi 1, 163
+Phan Van Phuc, 101170049, giam thi 2, 163
+Ha Dinh Thang, 101170061, giam thi 1, 164
+Le Anh Tu, 101170073, giam thi 2, 164
+Tran Quang Linh, 101170035, giam thi 1, 165
+Huynh Van Thinh, 101170067, giam thi 2, 165
+Nguyen Quoc Te, 101170059, giam thi 1, 166
+Vo Tan Duy, 101170098, giam thi 2, 166
+Le Hong Phuc, 101170048, giam thi 1, 167
+Tran Van Hoa, 101170025, giam thi 2, 167
+Nguyen Phan Thanh Loc, 101170036, giam thi 1, 128
+Nguyen Van Minh, 101170038, giam thi 2, 128
+Dang Vinh Chien, 101170004, giam thi 1, 129
+Nguyen Duc Thanh Cong, 101170088, giam thi 2, 129
+Le Quoc Viet, 101170078, giam thi 1, 130
+Le Van Bac, 101170082, giam thi 2, 130
+Le Van Anh, 101170002, giam thi 1, 131
+Dang Van Hieu, 101170022, giam thi 2, 131
+Huynh Van Thu, 101170069, giam thi 1, 132
+Nguyen Phi Dat, 101170091, giam thi 2, 132
+Phan Dung Thang, 101170063, giam thi 1, 133
+Tran Danh Dan, 101170009, giam thi 2, 133
+Dau The Duc, 101170094, giam thi 1, 134
+Nguyen Tien Dat, 101170011, giam thi 2, 134
+Nguyen Tran Van Quoc, 101170053, giam thi 1, 135
+Nguyen Ke Trong, 101170072, giam thi 2, 135
+Phan Van Toi, 101170071, giam thi 1, 136
+Van Nhat Nam, 101170039, giam thi 2, 136
+Nguyen Huynh Nhat, 101170044, giam thi 1, 137
+Le Duc Huy, 101170030, giam thi 2, 137
+Ha Minh Phuc, 101170047, giam thi 1, 138
+Nguyen Anh Tuan, 101170074, giam thi 2, 138
+Vo Dang Hieu, 101170024, giam thi 1, 139
+Tran Quang Linh, 101170035, giam thi 2, 139
+Doan Minh Van Chuong, 101170007, giam thi 1, 140
+Nguyen Cong Thien, 101170066, giam thi 2, 140
+Truong Van Hung, 101170029, giam thi 1, 141
+Tran Vinh Hao, 101170021, giam thi 2, 141
+Nguyen Hai Dat, 101170010, giam thi 1, 142
+Le Anh Tu, 101170073, giam thi 2, 142
+Do Van Quang, 101170052, giam thi 1, 143
+Doan Ngoc Chung, 101170005, giam thi 2, 143
+Ngo Van Phu, 101170046, giam thi 1, 144
+Tran Dac Sang, 101170054, giam thi 2, 144
+Phan Huu Binh, 101170003, giam thi 1, 145
+Vo Thanh Chau, 101170084, giam thi 2, 145
+Ngo Xuan Thang, 101170062, giam thi 1, 146
+Tran Dinh Chien, 101170085, giam thi 2, 146
+Dang Ha, 101170019, giam thi 1, 147
+Nguyen Van Nguyen, 101170042, giam thi 2, 147
+Tran Van Huy, 101170031, giam thi 1, 148
+Le Trung Kien, 101170032, giam thi 2, 148
+Hoang Phan Lam, 101170033, giam thi 1, 149
+Nguyen Bao Danh, 101170090, giam thi 2, 149
+Huynh Van Thinh, 101170067, giam thi 1, 150
+Nguyen Dinh Anh Dung, 101170096, giam thi 2, 150
+Nguyen Van An, 101170001, giam thi 1, 151
+Nguyen Luong Nghia, 101170041, giam thi 2, 151
+Nguyen Trung Hieu, 101170023, giam thi 1, 152
+Nguyen Quoc Te, 101170059, giam thi 2, 152
+Tran Hoang Vu, 101170080, giam thi 1, 153
+Le Tu Tien, 101170070, giam thi 2, 153
+Vo Huu Duc, 101170095, giam thi 1, 154
+Do Hong Son, 101170055, giam thi 2, 154
+Nguyen Cuu Thanh De, 101170012, giam thi 1, 155
+Nguyen Duc Anh Quan, 101170051, giam thi 2, 155
+Ha Dinh Thang, 101170061, giam thi 1, 156
+Le Minh Dung, 101170015, giam thi 2, 156
+Tran Hung Duc, 101170014, giam thi 1, 157
+Vo Dinh Cuong, 111160014, giam thi 2, 157
+Do Minh Tan, 101170058, giam thi 1, 158
+Doan Nguyen Anh Tai, 101170056, giam thi 2, 158
+Tran Ngoc Thanh, 101170064, giam thi 1, 159
+Nguyen Manh Hung, 101170028, giam thi 2, 159
+Nguyen Dinh Hoang, 101170026, giam thi 1, 160
+Le Nhat, 101170043, giam thi 2, 160
+Le Van Chung, 101170086, giam thi 1, 161
+Phan Minh Tho, 101170068, giam thi 2, 161
+Nguyen Quoc Dung, 101170016, giam thi 1, 162
+Phan Van Cong, 101170008, giam thi 2, 162
+Dang Trong Duc, 101170013, giam thi 1, 163
+Le Phu Van, 101170077, giam thi 2, 163
+Vo Tan Duy, 101170098, giam thi 1, 164
+Dang Ngoc Giang, 101170018, giam thi 2, 164
+Nguyen Tang Phuoc, 101170050, giam thi 1, 165
+Nguyen Huu Tung Duong, 101170017, giam thi 2, 165
+Nguyen Luong Duc Hong Thai, 101170060, giam thi 1, 166
+Nguyen Thanh Hai, 101170020, giam thi 2, 166
+Nguyen Tuan Diep, 101170093, giam thi 1, 167
+Nguyen Dinh Chung, 101170006, giam thi 2, 167
+Nguyen Van An, 101170001, giam thi 1, 128
+Ha Minh Phuc, 101170047, giam thi 2, 128
+Nguyen Phan Thanh Loc, 101170036, giam thi 1, 129
+Nguyen Luong Nghia, 101170041, giam thi 2, 129
+Dang Vinh Chien, 101170004, giam thi 1, 130
+Doan Minh Van Chuong, 101170007, giam thi 2, 130
+Tran Vinh Hao, 101170021, giam thi 1, 131
+Nguyen Huynh Nhat, 101170044, giam thi 2, 131
+Nguyen Trung Hieu, 101170023, giam thi 1, 132
+Do Van Quang, 101170052, giam thi 2, 132
+Le Van Bac, 101170082, giam thi 1, 133
+Van Nhat Nam, 101170039, giam thi 2, 133
+Tran Hoang Lam, 101170034, giam thi 1, 134
+Nguyen Hai Dat, 101170010, giam thi 2, 134
+Dang Ha, 101170019, giam thi 1, 135
+Le Duc Huy, 101170030, giam thi 2, 135
+Nguyen Ke Trong, 101170072, giam thi 1, 136
+Tran Quang Linh, 101170035, giam thi 2, 136
+Le Anh Tu, 101170073, giam thi 1, 137
+Tran Viet An, 101170081, giam thi 2, 137
+Nguyen Minh Hoang, 101170027, giam thi 1, 138
+Le Thi Nhut, 101170045, giam thi 2, 138
+Tran Van Huy, 101170031, giam thi 1, 139
+Nguyen Quoc Te, 101170059, giam thi 2, 139
+Vo Thanh Chau, 101170084, giam thi 1, 140
+Huynh Van Thinh, 101170067, giam thi 2, 140
+Le Van Anh, 101170002, giam thi 1, 141
+Do Minh Tan, 101170058, giam thi 2, 141
+Nguyen Duc Thanh Cong, 101170088, giam thi 1, 142
+Nguyen Anh Tuan, 101170074, giam thi 2, 142
+Nguyen Tien Dat, 101170011, giam thi 1, 143
+Nguyen Van Tuan, 101170075, giam thi 2, 143
+Le Phu Van, 101170077, giam thi 1, 144
+Nguyen Luong Duc Hong Thai, 101170060, giam thi 2, 144
+Vo Xuan Dat, 101170092, giam thi 1, 145
+Tran Dac Sang, 101170054, giam thi 2, 145
+Vo Tan Duy, 101170098, giam thi 1, 146
+Phan Huu Binh, 101170003, giam thi 2, 146
+Le Tu Tien, 101170070, giam thi 1, 147
+Nguyen Bao Danh, 101170090, giam thi 2, 147
+Nguyen Dinh Hoang, 101170026, giam thi 1, 148
+Le Quoc Viet, 101170078, giam thi 2, 148
+Nguyen Duc Anh Quan, 101170051, giam thi 1, 149
+Tran Danh Dan, 101170009, giam thi 2, 149
+Ha Dinh Thang, 101170061, giam thi 1, 150
+Nguyen Tuan Diep, 101170093, giam thi 2, 150
+Vo Dang Hieu, 101170024, giam thi 1, 151
+Hoang Phan Lam, 101170033, giam thi 2, 151
+Tran Cao Dy Bao, 101170083, giam thi 1, 152
+Ngo Van Phu, 101170046, giam thi 2, 152
+Nguyen Van Minh, 101170038, giam thi 1, 153
+Phan Dung Thang, 101170063, giam thi 2, 153
+Nguyen Van Chung, 101170087, giam thi 1, 154
+Vo Dinh Cuong, 111160014, giam thi 2, 154
+Nguyen Canh Duong, 101170097, giam thi 1, 155
+Nguyen Huu Tung Duong, 101170017, giam thi 2, 155
+Huynh Van Thu, 101170069, giam thi 1, 156
+Nguyen Tran Van Quoc, 101170053, giam thi 2, 156
+Nguyen Dinh Chung, 101170006, giam thi 1, 157
+Truong Van Hung, 101170029, giam thi 2, 157
+Tran Dinh Chien, 101170085, giam thi 1, 158
+Phan Van Phuc, 101170049, giam thi 2, 158
+Bui The Thien, 101170065, giam thi 1, 159
+Phan Van Cong, 101170008, giam thi 2, 159
+Tran Hung Duc, 101170014, giam thi 1, 160
+Le Hong Phuc, 101170048, giam thi 2, 160
+Le Bich Tam, 101170057, giam thi 1, 161
+Nguyen Quoc Dung, 101170016, giam thi 2, 161
+Doan Nguyen Anh Tai, 101170056, giam thi 1, 162
+Le Dinh Nga, 101170040, giam thi 2, 162
+Le Minh Dung, 101170015, giam thi 1, 163
+Vo Huu Duc, 101170095, giam thi 2, 163
+Dang Van Hieu, 101170022, giam thi 1, 164
+Tran Ngoc Thanh, 101170064, giam thi 2, 164
+Le Trung Kien, 101170032, giam thi 1, 165
+Doan Ngoc Chung, 101170005, giam thi 2, 165
+Nguyen Tang Phuoc, 101170050, giam thi 1, 166
+Nguyen Van Nguyen, 101170042, giam thi 2, 166
+Do Hong Son, 101170055, giam thi 1, 167
+Phan Van Toi, 101170071, giam thi 2, 167
+Dang Trong Duc, 101170013, giam thi 1, 128
+Le Trung Kien, 101170032, giam thi 2, 128
+Tran Van Huy, 101170031, giam thi 1, 129
+Nguyen Dinh Chung, 101170006, giam thi 2, 129
+Dang Vinh Chien, 101170004, giam thi 1, 130
+Hoang Nhat Tuyen, 101170076, giam thi 2, 130
+Nguyen Canh Duong, 101170097, giam thi 1, 131
+Bui The Thien, 101170065, giam thi 2, 131
+Nguyen Cong Thien, 101170066, giam thi 1, 132
+Vo Thanh Chau, 101170084, giam thi 2, 132
+Le Bich Tam, 101170057, giam thi 1, 133
+Phan Van Phuc, 101170049, giam thi 2, 133
+Vo Huu Duc, 101170095, giam thi 1, 134
+Nguyen Duc Anh Quan, 101170051, giam thi 2, 134
+Tran Hoang Vu, 101170080, giam thi 1, 135
+Tran Quang Linh, 101170035, giam thi 2, 135
+Nguyen Van Chung, 101170087, giam thi 1, 136
+Phan Van Cong, 101170008, giam thi 2, 136
+Doan Nguyen Anh Tai, 101170056, giam thi 1, 137
+Nguyen Quoc Dung, 101170016, giam thi 2, 137
+Tran Cao Dy Bao, 101170083, giam thi 1, 138
+Nguyen Huu Tung Duong, 101170017, giam thi 2, 138
+Tran Viet An, 101170081, giam thi 1, 139
+Tran Ngoc Thanh, 101170064, giam thi 2, 139
+Dang Ha, 101170019, giam thi 1, 140
+Nguyen Tran Van Quoc, 101170053, giam thi 2, 140
+Phan Van Toi, 101170071, giam thi 1, 141
+Le Anh Tu, 101170073, giam thi 2, 141
+Do Minh Tan, 101170058, giam thi 1, 142
+Do Hong Son, 101170055, giam thi 2, 142
+Truong Van Hung, 101170029, giam thi 1, 143
+Ngo Van Phu, 101170046, giam thi 2, 143
+Nguyen Van An, 101170001, giam thi 1, 144
+Phan Minh Tho, 101170068, giam thi 2, 144
+Pham Duc Manh, 101170037, giam thi 1, 145
+Tran Dinh Chien, 101170085, giam thi 2, 145
+Nguyen Duc Thanh Cong, 101170088, giam thi 1, 146
+Nguyen Manh Hung, 101170028, giam thi 2, 146
+Dau The Duc, 101170094, giam thi 1, 147
+Nguyen Tuan Diep, 101170093, giam thi 2, 147
+Nguyen Cuu Thanh De, 101170012, giam thi 1, 148
+Le Nhat, 101170043, giam thi 2, 148
+Le Thi Nhut, 101170045, giam thi 1, 149
+Le Dinh Nga, 101170040, giam thi 2, 149
+Vo Dinh Cuong, 111160014, giam thi 1, 150
+Nguyen Phan Thanh Loc, 101170036, giam thi 2, 150
+Ngo Xuan Thang, 101170062, giam thi 1, 152
+Doan Ngoc Chung, 101170005, giam thi 2, 152
+Le Hong Phuc, 101170048, giam thi 1, 153
+Tran Hung Duc, 101170014, giam thi 2, 153
+Vo Tan Duy, 101170098, giam thi 1, 154
+Le Quoc Viet, 101170078, giam thi 2, 154
+Nguyen Huynh Nhat, 101170044, giam thi 1, 155
+Le Van Bac, 101170082, giam thi 2, 155
+Huynh Van Thinh, 101170067, giam thi 1, 156
+Ha Minh Phuc, 101170047, giam thi 2, 156
+Hoang Phan Lam, 101170033, giam thi 1, 157
+Nguyen Hai Dat, 101170010, giam thi 2, 157
+Dang Ngoc Giang, 101170018, giam thi 1, 158
+Nguyen Anh Tuan, 101170074, giam thi 2, 158
+Le Van Anh, 101170002, giam thi 1, 159
+Lam Quoc Vu, 101170079, giam thi 2, 159
+Nguyen Van Minh, 101170038, giam thi 1, 160
+Le Tu Tien, 101170070, giam thi 2, 160
+Tran Danh Dan, 101170009, giam thi 1, 161
+Nguyen Bao Danh, 101170090, giam thi 2, 161
+Nguyen Tang Phuoc, 101170050, giam thi 1, 162
+Nguyen Luong Nghia, 101170041, giam thi 2, 162
+Tran Dac Sang, 101170054, giam thi 1, 163
+Tran Vinh Hao, 101170021, giam thi 2, 163
+Nguyen Trung Hieu, 101170023, giam thi 1, 164
+Nguyen Van Nguyen, 101170042, giam thi 2, 164
+Vo Dang Hieu, 101170024, giam thi 1, 165
+Le Minh Dung, 101170015, giam thi 2, 165
+Nguyen Dinh Hoang, 101170026, giam thi 1, 166
+Nguyen Tien Dat, 101170011, giam thi 2, 166
+Phan Dung Thang, 101170063, giam thi 1, 167
+Nguyen Van Tuan, 101170075, giam thi 2, 167
+Nguyen Canh Duong, 101170097, giam thi 1, 128
+Le Dinh Nga, 101170040, giam thi 2, 128
+Dang Trong Duc, 101170013, giam thi 1, 129
+Nguyen Tran Van Quoc, 101170053, giam thi 2, 129
+Huynh Van Thinh, 101170067, giam thi 1, 130
+Nguyen Huu Tung Duong, 101170017, giam thi 2, 130
+Ha Minh Phuc, 101170047, giam thi 1, 131
+Nguyen Cong Thien, 101170066, giam thi 2, 131
+Tran Cao Dy Bao, 101170083, giam thi 1, 132
+Do Minh Tan, 101170058, giam thi 2, 132
+Hoang Phan Lam, 101170033, giam thi 1, 133
+Le Trung Kien, 101170032, giam thi 2, 133
+Le Bich Tam, 101170057, giam thi 1, 134
+Nguyen Van An, 101170001, giam thi 2, 134
+Nguyen Hai Dat, 101170010, giam thi 1, 135
+Dang Ha, 101170019, giam thi 2, 135
+Nguyen Anh Tuan, 101170074, giam thi 1, 137
+Le Van Anh, 101170002, giam thi 2, 137
+Nguyen Duc Thanh Cong, 101170088, giam thi 1, 138
+Nguyen Tuan Diep, 101170093, giam thi 2, 138
+Phan Van Cong, 101170008, giam thi 1, 139
+Ngo Xuan Thang, 101170062, giam thi 2, 139
+Lam Quoc Vu, 101170079, giam thi 1, 140
+Bui The Thien, 101170065, giam thi 2, 140
+Tran Van Huy, 101170031, giam thi 1, 141
+Nguyen Minh Hoang, 101170027, giam thi 2, 141
+Nguyen Cuu Thanh De, 101170012, giam thi 1, 142
+Nguyen Van Minh, 101170038, giam thi 2, 142
+Le Hong Phuc, 101170048, giam thi 1, 143
+Le Van Bac, 101170082, giam thi 2, 143
+Do Van Quang, 101170052, giam thi 1, 144
+Vo Dang Hieu, 101170024, giam thi 2, 144
+Tran Ngoc Thanh, 101170064, giam thi 1, 145
+Vo Huu Duc, 101170095, giam thi 2, 145
+Dang Van Hieu, 101170022, giam thi 1, 146
+Nguyen Phi Dat, 101170091, giam thi 2, 146
+Phan Van Toi, 101170071, giam thi 1, 147
+Nguyen Dinh Anh Dung, 101170096, giam thi 2, 147
+Tran Van Hoa, 101170025, giam thi 1, 148
+Vo Dinh Cuong, 111160014, giam thi 2, 148
+Le Nhat, 101170043, giam thi 1, 149
+Nguyen Tien Dat, 101170011, giam thi 2, 149
+Le Thi Nhut, 101170045, giam thi 1, 150
+Nguyen Trung Hieu, 101170023, giam thi 2, 150
+Nguyen Huynh Nhat, 101170044, giam thi 1, 151
+Nguyen Van Chung, 101170087, giam thi 2, 151
+Vo Tan Duy, 101170098, giam thi 1, 152
+Phan Dung Thang, 101170063, giam thi 2, 152
+Doan Minh Van Chuong, 101170007, giam thi 1, 153
+Le Anh Tu, 101170073, giam thi 2, 153
+Ngo Van Phu, 101170046, giam thi 1, 154
+Vo Xuan Dat, 101170092, giam thi 2, 154
+Tran Viet An, 101170081, giam thi 1, 155
+Tran Quang Linh, 101170035, giam thi 2, 155
+Phan Huu Binh, 101170003, giam thi 1, 156
+Pham Duc Manh, 101170037, giam thi 2, 156
+Nguyen Van Tuan, 101170075, giam thi 1, 157
+Phan Van Phuc, 101170049, giam thi 2, 157
+Phan Minh Tho, 101170068, giam thi 1, 158
+Tran Dinh Chien, 101170085, giam thi 2, 158
+Ha Dinh Thang, 101170061, giam thi 1, 159
+Le Tu Tien, 101170070, giam thi 2, 159
+Tran Dac Sang, 101170054, giam thi 1, 160
+Tran Danh Dan, 101170009, giam thi 2, 160
+Van Nhat Nam, 101170039, giam thi 1, 161
+Dau The Duc, 101170094, giam thi 2, 161
+Huynh Van Thu, 101170069, giam thi 1, 162
+Nguyen Duc Anh Quan, 101170051, giam thi 2, 162
+Nguyen Tang Phuoc, 101170050, giam thi 1, 163
+Tran Hoang Vu, 101170080, giam thi 2, 163
+Do Hong Son, 101170055, giam thi 1, 164
+Hoang Nhat Tuyen, 101170076, giam thi 2, 164
+Nguyen Luong Duc Hong Thai, 101170060, giam thi 1, 165
+Doan Nguyen Anh Tai, 101170056, giam thi 2, 165
+Tran Hoang Lam, 101170034, giam thi 1, 166
+Doan Ngoc Chung, 101170005, giam thi 2, 166
+Tran Van Huy, 101170031, giam thi 1, 128
+Nguyen Tuan Diep, 101170093, giam thi 2, 128
+Tran Ngoc Thanh, 101170064, giam thi 1, 129
+Phan Van Phuc, 101170049, giam thi 2, 129
+Dang Trong Duc, 101170013, giam thi 1, 130
+Le Duc Huy, 101170030, giam thi 2, 130
+Vo Dang Hieu, 101170024, giam thi 1, 131
+Nguyen Phan Thanh Loc, 101170036, giam thi 2, 131
+Truong Van Hung, 101170029, giam thi 1, 132
+Phan Minh Tho, 101170068, giam thi 2, 132
+Le Van Bac, 101170082, giam thi 1, 133
+Do Minh Tan, 101170058, giam thi 2, 133
+Nguyen Thanh Hai, 101170020, giam thi 1, 134
+Tran Hoang Lam, 101170034, giam thi 2, 134
+Huynh Van Thinh, 101170067, giam thi 1, 135
+Phan Dung Thang, 101170063, giam thi 2, 135
+Bui The Thien, 101170065, giam thi 1, 136
+Dang Van Hieu, 101170022, giam thi 2, 136
+Phan Huu Binh, 101170003, giam thi 1, 137
+Nguyen Hai Dat, 101170010, giam thi 2, 137
+Nguyen Phi Dat, 101170091, giam thi 1, 138
+Doan Nguyen Anh Tai, 101170056, giam thi 2, 138
+Nguyen Huu Tung Duong, 101170017, giam thi 1, 139
+Nguyen Trung Hieu, 101170023, giam thi 2, 139
+Phan Van Cong, 101170008, giam thi 1, 140
+Hoang Phan Lam, 101170033, giam thi 2, 140
+Nguyen Manh Hung, 101170028, giam thi 1, 141
+Ha Dinh Thang, 101170061, giam thi 2, 141
+Lam Quoc Vu, 101170079, giam thi 1, 142
+Le Phu Van, 101170077, giam thi 2, 142
+Nguyen Duc Anh Quan, 101170051, giam thi 1, 143
+Nguyen Tran Van Quoc, 101170053, giam thi 2, 143
+Pham Duc Manh, 101170037, giam thi 1, 144
+Nguyen Ke Trong, 101170072, giam thi 2, 144
+Nguyen Dinh Hoang, 101170026, giam thi 1, 145
+Nguyen Dinh Anh Dung, 101170096, giam thi 2, 145
+Tran Dinh Chien, 101170085, giam thi 1, 146
+Tran Van Hoa, 101170025, giam thi 2, 146
+Le Tu Tien, 101170070, giam thi 1, 147
+Nguyen Van Nguyen, 101170042, giam thi 2, 147
+Le Van Chung, 101170086, giam thi 1, 148
+Le Thi Nhut, 101170045, giam thi 2, 148
+Nguyen Dinh Chung, 101170006, giam thi 1, 149
+Dang Ngoc Giang, 101170018, giam thi 2, 149
+Le Dinh Nga, 101170040, giam thi 1, 150
+Tran Quang Linh, 101170035, giam thi 2, 150
+Dang Ha, 101170019, giam thi 1, 151
+Nguyen Quoc Dung, 101170016, giam thi 2, 151
+Nguyen Quoc Te, 101170059, giam thi 1, 152
+Tran Vinh Hao, 101170021, giam thi 2, 152
+Nguyen Anh Tuan, 101170074, giam thi 1, 153
+Doan Ngoc Chung, 101170005, giam thi 2, 153
+Dang Vinh Chien, 101170004, giam thi 1, 154
+Tran Dac Sang, 101170054, giam thi 2, 154
+Doan Minh Van Chuong, 101170007, giam thi 1, 155
+Van Nhat Nam, 101170039, giam thi 2, 155
+Tran Viet An, 101170081, giam thi 1, 156
+Nguyen Van Cuong, 101170089, giam thi 2, 156
+Hoang Nhat Tuyen, 101170076, giam thi 1, 157
+Tran Cao Dy Bao, 101170083, giam thi 2, 157
+Le Anh Tu, 101170073, giam thi 1, 158
+Nguyen Van Tuan, 101170075, giam thi 2, 158
+Le Bich Tam, 101170057, giam thi 1, 159
+Vo Dinh Cuong, 111160014, giam thi 2, 159
+Vo Huu Duc, 101170095, giam thi 1, 161
+Ha Minh Phuc, 101170047, giam thi 2, 161
+Ngo Van Phu, 101170046, giam thi 1, 162
+Le Minh Dung, 101170015, giam thi 2, 162
+Le Quoc Viet, 101170078, giam thi 1, 163
+Nguyen Luong Duc Hong Thai, 101170060, giam thi 2, 163
+Nguyen Van Minh, 101170038, giam thi 1, 164
+Dau The Duc, 101170094, giam thi 2, 164
+Vo Tan Duy, 101170098, giam thi 1, 165
+Le Trung Kien, 101170032, giam thi 2, 165
+Tran Hung Duc, 101170014, giam thi 1, 166
+Do Hong Son, 101170055, giam thi 2, 166
+Le Hong Phuc, 101170048, giam thi 1, 167
+Tran Danh Dan, 101170009, giam thi 2, 167
