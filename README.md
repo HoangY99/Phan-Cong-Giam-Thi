@@ -10,5 +10,5 @@ Cho n phòng thi (n>=400 phòng thi), m giám thi. Mỗi phòng thi luôn có 2 
 
 Kết quả phân công của chương trình:
 
-<img width="831" alt="image" src="https://user-images.githubusercontent.com/80016805/159171997-fe4eced6-681c-482d-a822-16b813c5fd14.png">
+<img width="876" alt="image" src="https://user-images.githubusercontent.com/80016805/159172035-6e1bc267-99e0-4351-8347-c577cf068db4.png">
 
